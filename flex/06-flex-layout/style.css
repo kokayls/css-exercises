@@ -57,10 +57,7 @@ input {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  
 }
-
-
 
 .footer{
   display: flex;
@@ -72,8 +69,7 @@ input {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  
+  justify-content: space-between; 
 }
 
 .links{
